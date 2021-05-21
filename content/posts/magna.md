@@ -1,5 +1,5 @@
 ---
-title: Our Fleet
+title: Our Bus Fleet
 subtitle: A cautionary tale about Magna etiam
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
