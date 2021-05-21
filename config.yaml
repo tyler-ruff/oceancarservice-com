@@ -2,7 +2,7 @@ title: Stackbit Vanilla Theme
 baseURL: /
 params:
   header:
-    title: Stackbit Vanilla
+    title: Ocean Car Service
     has_nav: true
     nav_links:
       - label: Home
