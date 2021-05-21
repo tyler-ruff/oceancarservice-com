@@ -8,9 +8,9 @@ params:
       - label: Home
         url: /
       - label: About
-        url: /generic/
+        url: /about/
       - label: Contact
-        url: /ipsum/
+        url: /contact/
   footer:
     content: >-
       &copy; Ocean Car Service LLC. All rights reserved. Created by <a
