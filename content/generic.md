@@ -33,9 +33,3 @@ We strive to provide Ocean City, NJ with the utmost quality of car service.
 ## Accepted payment types
 
 We accept Cash, Card, Venmo, and Paypal.
-
-- title: Recent Posts
-section_id: posts
-type: section_posts
-has_more_link: true
-more_link_text: View Fleet
