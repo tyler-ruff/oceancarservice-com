@@ -1,6 +1,6 @@
 ---
 title: Large Group Transportation
-subtitle: Vanilla styleguide.
+subtitle: 6+ People
 seo:
   title: UI Kit
   description: This is the UI kit page
