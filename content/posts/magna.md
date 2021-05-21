@@ -3,7 +3,6 @@ title: Bus Fleet
 subtitle: A cautionary tale about Magna etiam
 excerpt: "This is the fleet of\_passenger vans which OCS directly owns. We always properly maintain them, clean, and\_disinfect them frequently."
 date: '2016-09-04'
-thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
 seo:
   title: Magna etiam sed lorem ipsum dolor amet
