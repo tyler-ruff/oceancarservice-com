@@ -48,7 +48,7 @@ sections:
 
       You can also call our main business line at (609) 214-9678
     
-- title: Recent Posts
+  - title: Recent Posts
     section_id: posts
     type: section_posts
     has_more_link: true
