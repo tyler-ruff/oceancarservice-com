@@ -27,7 +27,7 @@ params:
         url: 'https://rtmtransit.com/'
         new_window: true
       - label: Drunk Bus
-        url: '#'
+        url: 'https://drunkb.us/'
         new_window: false
         no_follow: false
         type: action
