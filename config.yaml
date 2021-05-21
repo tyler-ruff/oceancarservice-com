@@ -7,7 +7,7 @@ params:
     nav_links:
       - label: Home
         url: /
-      - label: Generic
+      - label: About
         url: /generic/
       - label: Elements
         url: /elements/
