@@ -11,7 +11,7 @@ params:
         url: /generic/
       - label: Fleet
         url: /elements/
-      - label: Ipsum
+      - label: Contact
         url: /ipsum/
   footer:
     content: >-
