@@ -1,7 +1,7 @@
 <!-- Section -->
 {{ $section := .section }}
 <section id="{{ $section.section_id }}" class="posts">
-    {{ $display_posts := (.Site.GetPage "section" "/posts").Pages }}
+    {{ $display_posts := (.Site.GetPage "section" "/fleet").Pages }}
     {{ range $post := $display_posts.ByDate.Reverse }}
     <a href="{{ $post.URL }}" class="article-teaser">
         {{ if $post.Params.thumb_img_path }}<img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.thumb_img_alt }}"/>{{ end }}
