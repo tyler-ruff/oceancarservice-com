@@ -1,5 +1,5 @@
 ---
-title: Our Car Fleet
+title: Car Fleet
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
   blandit dolor elementum viverra.
