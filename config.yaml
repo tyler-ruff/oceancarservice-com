@@ -16,7 +16,8 @@ params:
   footer:
     content: >-
       &copy; Ocean Car Service LLC. All rights reserved. Created by <a
-      href="https://www.blazedlabs.com/" target="_blank">B</a>. Create yours <a
+      href="https://www.blazedlabs.com/" target="_blank">Blazed </a>. Create
+      yours <a
       href="https://app.stackbit.com/create?theme=vanilla&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
     has_social: true
