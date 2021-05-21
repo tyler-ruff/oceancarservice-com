@@ -31,12 +31,7 @@ params:
         new_window: false
         no_follow: false
         type: action
-    links:
-      - label: lorem-ipsum
-        url: '#'
-        new_window: false
-        no_follow: false
-        type: action
+    links: []
   domain: 'https://oceancarservice-com-8245f.netlify.app'
 taxonomies:
   stub: stub
