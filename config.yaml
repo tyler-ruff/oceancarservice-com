@@ -26,7 +26,7 @@ params:
       - label: RTM
         url: 'https://rtmtransit.com/'
         new_window: true
-      - label: lorem-ipsum
+      - label: Drunk Bus
         url: '#'
         new_window: false
         no_follow: false
