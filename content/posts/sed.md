@@ -4,7 +4,6 @@ excerpt: >-
   This is the fleet of passenger cars which OCS directly owns. We always
   properly maintain them, clean, and disinfect them frequently.
 date: '2016-08-28'
-thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
 seo:
   title: Sed feugiat et mauris adipiscing dolor
