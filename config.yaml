@@ -15,8 +15,7 @@ params:
         url: /ipsum/
   footer:
     content: >-
-      &copy; Ocean Car Service LLC. All rights reserved. This Jamstack site was
-      created with <a
+      &copy; Ocean Car Service LLC. All rights reserved. Created by <a
       href="https://www.stackbit.com/?utm_source=deployed-footer"
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=vanilla&utm_source=deployed-footer"
