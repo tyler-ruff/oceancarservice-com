@@ -11,6 +11,7 @@ params:
         url: /generic/
       - label: Bus
         url: 'https://drunkb.us/'
+        new_window: true
       - label: Contact
         url: /ipsum/
   footer:
