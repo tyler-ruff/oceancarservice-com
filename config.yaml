@@ -9,7 +9,7 @@ params:
         url: /
       - label: About
         url: /generic/
-      - label: Fleet
+      - label: Bus
         url: /elements/
       - label: Contact
         url: /ipsum/
