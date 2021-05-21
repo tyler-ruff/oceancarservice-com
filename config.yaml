@@ -19,7 +19,7 @@ params:
       href="https://www.blazedlabs.com/" target="_blank">Blazed Labs</a>.
     has_social: true
     social_links:
-      - label: Twitter
+      - label: Facebook
         url: 'https://twitter.com/'
         new_window: true
       - label: Instagram
