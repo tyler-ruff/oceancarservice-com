@@ -10,7 +10,7 @@ params:
       - label: About
         url: /generic/
       - label: Bus
-        url: /elements/
+        url: 'https://drunkb.us/'
       - label: Contact
         url: /ipsum/
   footer:
