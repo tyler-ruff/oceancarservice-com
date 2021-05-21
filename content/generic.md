@@ -1,5 +1,5 @@
 ---
-subtitle: Just a generic subtitle for the page
+subtitle: We are a car service based out of Ocean City.
 seo:
   title: Just a Generic Page
   description: This is a generic page
