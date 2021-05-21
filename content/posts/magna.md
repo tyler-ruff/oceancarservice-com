@@ -1,6 +1,6 @@
 ---
 title: Bus Fleet
-subtitle: Our 15 Passanger
+subtitle: Our 15 Passenger Bus Fleet
 excerpt: "This is the fleet of\_passenger vans which OCS directly owns. We always properly maintain them, clean, and\_disinfect them frequently."
 date: '2016-09-04'
 thumb_img_alt: Geometric pattern
