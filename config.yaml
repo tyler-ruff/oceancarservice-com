@@ -20,7 +20,7 @@ params:
     has_social: true
     social_links:
       - label: Facebook
-        url: 'https://twitter.com/'
+        url: 'https://www.facebook.com/oceancarservicellc'
         new_window: true
       - label: Instagram
         url: 'https://www.instagram.com/'
