@@ -23,7 +23,7 @@ params:
         url: 'https://www.facebook.com/oceancarservicellc'
         new_window: true
       - label: GitHub
-        url: 'https://github.com/'
+        url: 'https://github.com/blazed-labs/oceancarservice-com'
         new_window: true
       - label: LinkedIn
         url: 'https://www.linkedin.com/'
