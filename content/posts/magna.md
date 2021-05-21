@@ -1,7 +1,7 @@
 ---
 title: Our Bus Fleet
 subtitle: A cautionary tale about Magna etiam
-excerpt: This is the fleet of passanger vans which OCS directly owns.
+excerpt: This is the fleet of passanger vans which OCS directly owns. We
 date: '2016-09-04'
 thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
