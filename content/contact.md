@@ -35,6 +35,4 @@ You may also reach us by email anytime.
 ## Facebook
 You may also reach us on our Facebook page.
 
-[Facebook Page](https://www.facebook.com/oceancarservicellc)
-
 [Facebook Messenger](https://m.me/oceancarservicellc)
