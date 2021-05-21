@@ -1,6 +1,6 @@
 ---
-title: Ipsum dolor sit amet
-subtitle: Aliquam lobortis faucibus blandit
+title: Contact Us
+subtitle: Get a quote or book a trip
 seo:
   title: Ipsum dolor sit amet
   description: Aliquam lobortis faucibus blandit
