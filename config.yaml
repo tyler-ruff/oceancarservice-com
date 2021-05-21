@@ -26,6 +26,12 @@ params:
       - label: RTM
         url: 'https://rtmtransit.com/'
         new_window: true
+    links:
+      - label: lorem-ipsum
+        url: '#'
+        new_window: false
+        no_follow: false
+        type: action
   domain: 'https://oceancarservice-com-8245f.netlify.app'
 taxonomies:
   stub: stub
