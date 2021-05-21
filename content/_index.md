@@ -46,7 +46,7 @@ sections:
       so shoot any email to booking@oceancarservice.com
 
 
-      You can also call our main business line at (609) 214-9678
+      You can also call or text our main business line at (609) 214-9678
 
       # Our Fleet
     
