@@ -11,26 +11,42 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+    content: >
+      ## Who are we?
 
-      ### This is an H3. Use it for subheads and subsections.
 
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
+      We are a car service based in Ocean City, NJ.                
 
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+
+      We operate year round, 24 hours-a-day.                
+
+
+      We are fully licensed and insured.
+
+
+
+
+      ### What do we do?
+
+
+      We specialize in medium to large group and individuals, usually going to
+      events or to catch flights. 
+
+
+      We only do prearranged work, so please get in touch for a quote or to book
+      a trip!
+
+
+
+
+      ## Booking
+
+
+      There are many ways to book here with us. We check our email frequently,
+      so shoot any email to booking@oceancarservice.com
+
+
+      You can also call our main business line at (609) 214-9678
   - title: Recent Posts
     section_id: posts
     type: section_posts
