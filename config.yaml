@@ -9,8 +9,6 @@ params:
         url: /
       - label: About
         url: /generic/
-      - url: 'https://drunkb.us/'
-        new_window: true
       - label: Contact
         url: /ipsum/
   footer:
