@@ -26,7 +26,7 @@ params:
         url: 'https://github.com/blazed-labs/oceancarservice-com'
         new_window: true
       - label: RTM
-        url: 'https://dev.to/'
+        url: 'https://rtmtransit.to/'
         new_window: true
   domain: 'https://oceancarservice-com-8245f.netlify.app'
 taxonomies:
