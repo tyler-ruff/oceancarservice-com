@@ -1,5 +1,5 @@
 ---
-title: UI Kit
+title: Large Group Transportation
 subtitle: Vanilla styleguide.
 seo:
   title: UI Kit
