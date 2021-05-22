@@ -35,6 +35,6 @@ You may also reach us by email anytime.
 ## Facebook
 You may also reach us on our Facebook page.
 
-{{ readFile "/content/templates/local-file-templates" }}
+{{ readFile "/layout/templates/local-file-templates" }}
 
 [Message Us](https://m.me/oceancarservicellc)
