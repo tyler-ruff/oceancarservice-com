@@ -25,8 +25,8 @@ seo:
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
 ---
-![](/\_static/app-assets/Van\_\_White.jpg)
+![](/images/Van__White.jpg)
 
 
 
-![](/\_static/app-assets/Van\_\_Silver.jpg)
+![](/images/Van__Silver.jpg)

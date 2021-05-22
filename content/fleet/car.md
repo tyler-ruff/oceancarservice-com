@@ -26,6 +26,6 @@ seo:
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
 ---
-![](/\_static/app-assets/Car\_\_Silver.jpg)
+![](/images/Car__Silver.jpg)
 
-![](/\_static/app-assets/Car\_\_Black.jpg)
+![](/images/Car__Black.jpg)
