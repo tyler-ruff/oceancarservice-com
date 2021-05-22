@@ -1,6 +1,7 @@
 title: Stackbit Vanilla Theme
 baseURL: /
 params:
+  favicon: /images/ocs.png
   header:
     title: Ocean Car Service
     has_nav: true
