@@ -1,14 +1,14 @@
 ---
 subtitle: We are a car service based out of Ocean City.
 seo:
-  title: Just a Generic Page
+  title: Ocean Car Service - About
   description: This is a generic page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Just a Generic Page
+      value: Ocean Car Service - About
       keyName: property
     - name: 'og:description'
       value: This is a generic page
@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Just a Generic Page
+      value: Ocean Car Service - About
     - name: 'twitter:description'
       value: This is a generic page
 layout: page

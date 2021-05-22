@@ -1,25 +1,25 @@
 ---
 title: Contact Us
-subtitle: Get a quote or book a trip
+subtitle: Ocean Car Service - Contact
 seo:
-  title: Get a quote or book a trip
-  description: Get a quote or book a trip
+  title: Ocean Car Service - Contact
+  description: Ocean Car Service - Contact
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Get a quote or book a trip
+      value: Ocean Car Service - Contact
       keyName: property
     - name: 'og:description'
-      value: Get a quote or book a trip
+      value: Ocean Car Service - Contact
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Get a quote or book a trip
+      value: Ocean Car Service - Contact
     - name: 'twitter:description'
-      value: Get a quote or book a trip
+      value: Ocean Car Service - Contact
 layout: page
 ---
 ## Phone

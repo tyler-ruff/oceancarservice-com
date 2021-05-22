@@ -1,4 +1,4 @@
-title: Stackbit Vanilla Theme
+title: Ocean Car Service
 baseURL: /
 params:
   favicon: /images/ocs.png
@@ -33,7 +33,7 @@ params:
         no_follow: false
         type: action
     links: []
-  domain: 'https://oceancarservice-com-8245f.netlify.app'
+  domain: 'https://oceancarservice-com.pages.dev'
 taxonomies:
   stub: stub
 disableKinds:

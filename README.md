@@ -1,37 +1,16 @@
-# ✨ oceancarservice-com ✨
+# ✨ oceancarservice.com ✨
+Dev site: https://oceancarservice-com.pages.dev/
 
-<img src="https://themes.stackbit.com/images/vanilla-demo-1024x768.png" width="600">
+![Screenshot](screenshot.jpg?raw=true "Ocean Car Service")
+
+[![CodeFactor](https://www.codefactor.io/repository/github/blazed-labs/oceancarservice-com/badge)](https://www.codefactor.io/repository/github/blazed-labs/oceancarservice-com)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a36739ba45bf4f5097bd74435db0168c)](https://www.codacy.com/gh/blazed-labs/oceancarservice-com/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=blazed-labs/oceancarservice-com&amp;utm_campaign=Badge_Grade)
 
 This is a [Hugo](https://gohugo.io) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
 
 You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/vanilla-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
 
-<details>
-        <summary>🎨 &nbsp;<strong>Look</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/ampersand-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Medium inspired blogging theme</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/starter-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Ultra customizable starter. A developers&#39; favorite.</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/app-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Mobile application landing page</a></li>
-                </ul>
-</details>
-
-<details>
-        <summary>✏️ &nbsp;<strong>CMS</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?cms=forestry&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Forestry</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=datocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Dato CMS</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=netlifycms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Netlify CMS</a></li>
-                </ul>
-</details>
-
-<details>
-        <summary>⚙️ &nbsp;<strong>Static site generator</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?ssg=gatsby&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Gatsby</a></li>
-                <li><a href="https://app.stackbit.com/create?ssg=nextjs&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Next.js</a></li>
-                <li><a href="https://app.stackbit.com/create?ssg=jekyll&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Jekyll</a></li>
-                </ul>
-</details>
 
 ## Develop Locally
 

@@ -57,30 +57,30 @@ sections:
     more_link_text: View Fleet
 
 seo:
-  title: Stackbit Vanilla Theme
-  description: The preview of the Vanilla theme
+  title: Ocean Car Service - Home
+  description: Ocean Car Service homepage
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Vanilla Theme
+      value: Ocean Car Service - Home
       keyName: property
     - name: 'og:description'
-      value: The preview of the Vanilla theme
+      value: Ocean Car Service homepage
       keyName: property
     - name: 'og:image'
-      value: images/vanilla-preview.png
+      value: images/OCEAN.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Vanilla Theme
+      value: Ocean Car Service - Home
     - name: 'twitter:description'
-      value: The preview of the Vanilla theme
+      value: Ocean Car Service homepage
     - name: 'twitter:image'
-      value: images/vanilla-preview.png
+      value: images/OCEAN.png
       relativeUrl: true
 layout: advanced
 ---
