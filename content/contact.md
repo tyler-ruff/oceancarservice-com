@@ -31,8 +31,3 @@ You may call or text our main number directly.
 You may also reach us by email anytime.
 
 [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
-
-## Facebook
-You may also reach us on our Facebook page.
-
-[Message Us](https://m.me/oceancarservicellc)
