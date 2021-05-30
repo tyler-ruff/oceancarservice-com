@@ -1,16 +1,18 @@
 # ✨ oceancarservice.com ✨
-Dev site: https://oceancarservice-com.pages.dev/
+
+Ocean Car Service is a small car service based in Ocean City, NJ.
+
+## Demo
+
+Dev site: https://dev.oceancarservice.com
+
+Live Site: https://www.oceancarservice.com
 
 ![Screenshot](screenshot.jpg?raw=true "Ocean Car Service")
 
 [![CodeFactor](https://www.codefactor.io/repository/github/blazed-labs/oceancarservice-com/badge)](https://www.codefactor.io/repository/github/blazed-labs/oceancarservice-com)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a36739ba45bf4f5097bd74435db0168c)](https://www.codacy.com/gh/blazed-labs/oceancarservice-com/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=blazed-labs/oceancarservice-com&amp;utm_campaign=Badge_Grade)
-
-This is a [Hugo](https://gohugo.io) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
-
-You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/vanilla-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
-
 
 ## Develop Locally
 
@@ -30,24 +32,21 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 
 1. 🎉
 
-## Editing Content
+## Repo Information
 
-To start editing your site, you can edit the included Markdown files.
+### Versioning
+We use [SemVer](https://semver.org/) for versioning.
 
-Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
+### License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-[![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
+### Support
+Having problems? We want to hear about it! Please navigate to the "Issues" tab of this repo, and fill out an issue request, outlining your issue (if you cannot find one already filed).
 
-Here's a few resources to get you started:
+### Contributing
+This project is currently only accepting bug-fixes.
+If you would like to submit a bugfix, please follow the guidelines outlined in the CONTRIBUTING.md file in this repo.
 
-- 📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
-- 📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
-- 📺 &nbsp; [Collaboration](https://stackbit.link/project-readme-collaboration-video)
-- 📺 &nbsp; [Publishing](https://stackbit.link/project-readme-publishing-video)
-- 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
+## Acknowledgments
 
-If you need a hand, make sure to check the [Stackbit support page](https://stackbit.link/project-readme-support).
-
-## Colophon
-
-Generated at `2021-05-21T21:22:02.338Z` by Stackbit version `0.3.52`.
+1. Blazed Labs LLC - Tyler Ruff (Lead Developer)
