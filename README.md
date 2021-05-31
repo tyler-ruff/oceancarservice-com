@@ -14,6 +14,8 @@ Live Site: https://www.oceancarservice.com
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a36739ba45bf4f5097bd74435db0168c)](https://www.codacy.com/gh/blazed-labs/oceancarservice-com/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=blazed-labs/oceancarservice-com&amp;utm_campaign=Badge_Grade)
 
+[![GuardRails badge](https://api.guardrails.io/v2/badges/blazed-labs/oceancarservice-com.svg?token=83000e8438553e15d7b0dde86a090ef8c2d597b4cb9d1a9f814274cb6b7deccd&provider=github)](https://dashboard.guardrails.io/gh/blazed-labs/76129)
+
 ## Develop Locally
 
 1. Follow the [installation guide](https://gohugo.io/getting-started/installing/) to install Hugo
