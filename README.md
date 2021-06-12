@@ -10,11 +10,9 @@ Live Site: https://www.oceancarservice.com
 
 ![Screenshot](screenshot.jpg?raw=true "Ocean Car Service")
 
-[![CodeFactor](https://www.codefactor.io/repository/github/blazed-labs/oceancarservice-com/badge)](https://www.codefactor.io/repository/github/blazed-labs/oceancarservice-com)
+[![GuardRails badge](https://api.guardrails.io/v2/badges/blazed-labs/oceancarservice-com.svg?token=83000e8438553e15d7b0dde86a090ef8c2d597b4cb9d1a9f814274cb6b7deccd&provider=github)](https://dashboard.guardrails.io/gh/blazed-labs/76129) 
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a36739ba45bf4f5097bd74435db0168c)](https://www.codacy.com/gh/blazed-labs/oceancarservice-com/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=blazed-labs/oceancarservice-com&amp;utm_campaign=Badge_Grade)
-
-[![GuardRails badge](https://api.guardrails.io/v2/badges/blazed-labs/oceancarservice-com.svg?token=83000e8438553e15d7b0dde86a090ef8c2d597b4cb9d1a9f814274cb6b7deccd&provider=github)](https://dashboard.guardrails.io/gh/blazed-labs/76129)
+[![CodeFactor](https://www.codefactor.io/repository/github/blazed-labs/oceancarservice-com/badge)](https://www.codefactor.io/repository/github/blazed-labs/oceancarservice-com) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a36739ba45bf4f5097bd74435db0168c)](https://www.codacy.com/gh/blazed-labs/oceancarservice-com/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=blazed-labs/oceancarservice-com&amp;utm_campaign=Badge_Grade)
 
 ## Develop Locally
 
@@ -34,7 +32,9 @@ Live Site: https://www.oceancarservice.com
 
 1. 🎉
 
-## Repo Information
+# Repo Information
+
+![GitHub last commit](https://img.shields.io/github/last-commit/blazed-labs/oceancarservice-com) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://dev.blazed.work/)
 
 ### Versioning
 We use [SemVer](https://semver.org/) for versioning.

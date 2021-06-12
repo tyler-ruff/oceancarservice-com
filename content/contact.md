@@ -2,7 +2,7 @@
 title: Contact Us
 subtitle: Ocean Car Service - Contact
 seo:
-  title: Ocean Car Service - Contact
+  title: Contact
   description: Ocean Car Service - Contact
   extra:
     - name: 'og:type'
