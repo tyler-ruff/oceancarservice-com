@@ -5,28 +5,28 @@ excerpt: "This is the fleet of\_passenger vans which OCS directly owns. We alway
 date: '2016-09-04'
 thumb_img_alt: Geometric pattern
 seo:
-  title: Magna etiam sed lorem ipsum dolor amet
-  description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+  title: Bus Fleet
+  description: The official bus fleet employed by Ocean Car Service.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Magna etiam sed lorem ipsum dolor amet
+      value: Bus Fleet
       keyName: property
     - name: 'og:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: The official bus fleet employed by Ocean Car Service.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Magna etiam sed lorem ipsum dolor amet
+      value: Bus Fleet
     - name: 'twitter:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: The official bus fleet employed by Ocean Car Service.
 layout: post
 ---
 ![](/images/Van__White.jpg)
 
 
 
-![](/images/Van__Silver.jpg)
+

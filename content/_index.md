@@ -12,6 +12,8 @@ sections:
     section_id: intro
     type: section_content
     content: >
+      ---
+      
       ## Who are we?
 
 
@@ -22,8 +24,6 @@ sections:
 
 
       We are fully licensed and insured.
-
-
 
 
       ### What do we do?
@@ -37,7 +37,7 @@ sections:
       a trip!
 
 
-
+      ---
 
       ## Booking
 

@@ -6,24 +6,24 @@ excerpt: >-
 date: '2016-08-28'
 thumb_img_alt: Geometric pattern
 seo:
-  title: Sed feugiat et mauris adipiscing dolor
-  description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+  title: Car Fleet
+  description: The official car fleet employed by Ocean Car Service.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Sed feugiat et mauris adipiscing dolor
+      value: Car Fleet
       keyName: property
     - name: 'og:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: The official car fleet employed by Ocean Car Service.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Sed feugiat et mauris adipiscing dolor
+      value: Car Fleet
     - name: 'twitter:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: The official car fleet employed by Ocean Car Service.
 layout: post
 ---
 ![](/images/Car__Silver.jpg)

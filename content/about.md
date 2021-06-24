@@ -12,6 +12,8 @@ sections:
     section_id: intro
     type: section_content
     content: >
+      ---
+      
       Our mission is to provide an excellent ride, be always on time, and never miss a deadline.
 
       We strive to provide Ocean City, NJ with the utmost quality of car service.
@@ -53,7 +55,7 @@ sections:
 
 seo:
   title: Home
-  description: Ocean Car Service homepage
+  description: Ocean Car Service About Page
   extra:
     - name: 'og:type'
       value: website
@@ -62,7 +64,7 @@ seo:
       value: Ocean Car Service - Home
       keyName: property
     - name: 'og:description'
-      value: Ocean Car Service homepage
+      value: Ocean Car Service About Page
       keyName: property
     - name: 'og:image'
       value: images/OCEAN.png
@@ -73,7 +75,7 @@ seo:
     - name: 'twitter:title'
       value: Ocean Car Service - Home
     - name: 'twitter:description'
-      value: Ocean Car Service homepage
+      value: Ocean Car Service About Page
     - name: 'twitter:image'
       value: images/OCEAN.png
       relativeUrl: true
