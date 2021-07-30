@@ -25,7 +25,7 @@ seo:
       value: The official bus fleet employed by Ocean Car Service.
 layout: post
 ---
-![](/images/Van__White.jpg)
+![](https://nstrobor.sirv.com/RTM/oceancarservice.com/fleet/Van__White.jpg)
 
 
 

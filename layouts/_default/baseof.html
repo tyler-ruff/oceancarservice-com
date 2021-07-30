@@ -7,6 +7,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <meta name="google" content="notranslate" />
         <meta name="description" content="{{ .Params.seo.description | default "" }}" />
+        <!-- START BLZ-HEADKIT -->
+        <meta name="google-site-verification" content="Bpq7oDCFRaVrC690gSSzxOD8T4r0f3xux2iJfNwZvlc" />
+        <meta name="norton-safeweb-site-verification" content="k0pdhrve5eay2sa77bxxt7asqr3ailq4d8-mt3kfl0jvydo45s81wd3u9nc8c-iw28e-fzh0c-sxuhj0mjj0pqkdkveawhbm5ez3lc8eqbz40qfgdlcp0826m-mghm91" />
+        <link rel="preconnect" href="https://my.sirv.com">
+        <link rel="dns-prefetch" href="//my.sirv.com/">
+        <link rel="me" href="mailto:booking@oceancarservice.com">
+        <!-- END BLZ-HEADKIT -->
         {{ if .Params.seo.robots }}
         <meta name="robots" content="{{ delimit $.Params.seo.robots "," }}">
         {{ end }}
@@ -38,6 +45,7 @@
             </div>
             {{ partial "footer.html" . }}
         </div>
+        <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
         <script src="{{ "js/init.js" | relURL }}"></script>
     </body> 
 </html>

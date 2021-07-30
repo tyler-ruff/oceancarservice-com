@@ -26,6 +26,6 @@ seo:
       value: The official car fleet employed by Ocean Car Service.
 layout: post
 ---
-![](/images/Car__Silver.jpg)
+![](https://nstrobor.sirv.com/RTM/oceancarservice.com/fleet/Car__Silver.jpg)
 
-![](/images/Car__Black.jpg)
+![](https://nstrobor.sirv.com/RTM/oceancarservice.com/fleet/Car__Black.jpg)
