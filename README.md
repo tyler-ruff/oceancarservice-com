@@ -10,6 +10,8 @@ Live Site: https://www.oceancarservice.com
 
 ![Screenshot](screenshot.jpg?raw=true "Ocean Car Service")
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee2ba5f5-6505-4e0e-a651-74f97476dd17/deploy-status)](https://app.netlify.com/sites/oceancarservice-com-8245f/deploys)
+
 [![GuardRails badge](https://api.guardrails.io/v2/badges/blazed-labs/oceancarservice-com.svg?token=83000e8438553e15d7b0dde86a090ef8c2d597b4cb9d1a9f814274cb6b7deccd&provider=github)](https://dashboard.guardrails.io/gh/blazed-labs/76129) 
 
 [![CodeFactor](https://www.codefactor.io/repository/github/blazed-labs/oceancarservice-com/badge)](https://www.codefactor.io/repository/github/blazed-labs/oceancarservice-com) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a36739ba45bf4f5097bd74435db0168c)](https://www.codacy.com/gh/blazed-labs/oceancarservice-com/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=blazed-labs/oceancarservice-com&amp;utm_campaign=Badge_Grade)
