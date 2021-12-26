@@ -6,7 +6,7 @@ sections:
     title: Lets get there.
     subtitle: |
       ### Ocean City, New Jersey Car Service
-    image: 'https://nstrobor.sirv.com/RTM/logo/OCS_SQ.png'
+    image: 'https://blazed.sirv.com/RTM/logo/OCS_SQ.png'
     image_alt: Author avatar
   - title: Text
     section_id: intro
@@ -64,7 +64,7 @@ seo:
       value: Ocean Car Service homepage
       keyName: property
     - name: 'og:image'
-      value: 'https://nstrobor.sirv.com/RTM/logo/OCEAN.png'
+      value: 'https://blazed.sirv.com/RTM/logo/OCEAN.png'
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -74,7 +74,7 @@ seo:
     - name: 'twitter:description'
       value: Ocean Car Service homepage
     - name: 'twitter:image'
-      value: 'https://nstrobor.sirv.com/RTM/logo/OCEAN.png'
+      value: 'https://blazed.sirv.com/RTM/logo/OCEAN.png'
       relativeUrl: true
 layout: advanced
 ---
