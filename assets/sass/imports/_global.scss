@@ -15,6 +15,15 @@ article, p, div {
     display:block;
 }
 
+main {
+
+    max-width: 808px;
+    position: relative;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
 ::selection{
     background: #1F487E;
     color:#fff;
