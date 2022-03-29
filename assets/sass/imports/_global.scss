@@ -3,6 +3,18 @@ html {
     box-sizing: border-box;
 }
 
+/* Blazed Labs Custom Scrollbar */
+body::-webkit-scrollbar{width:10px}
+body::-webkit-scrollbar-track{background:#727a8a}
+body::-webkit-scrollbar-thumb{background-color:#afb4bd;border-radius:20px;border:1px solid #5b626e}
+body::-webkit-scrollbar-thumb:hover{background-color:#5b626e}
+
+blz-app, header, 
+main, footer, section,
+article, p, div {
+    display:block;
+}
+
 ::selection{
     background: #1F487E;
     color:#fff;
@@ -12,7 +24,6 @@ html {
     background: #1F487E;
     color:#fff;
 }
-
 
 *,
 *:before,
@@ -35,7 +46,7 @@ section {
 .wrapper {
     display: flex;
     flex-direction: column;
-    max-width: 848px;
+    max-width: 100%;
     min-height: 100vh;
     padding: 0 $small;
     margin: 0 auto;
