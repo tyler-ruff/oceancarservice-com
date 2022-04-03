@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
     <head>    
-
         <title>Ocean Car Service | {{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Title }}{{ end }}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -60,10 +59,10 @@
 
               import { BlazedApp } from 'https://blazed.sbs/assets/js/blz.js';
 
-                if((typeof BlazedApp) === 'function'){
-                    console.log("fire-v3.0.0");
-                    window.customElements.define('blz-app', BlazedApp);
-                }
+              if((typeof BlazedApp) === 'function'){
+                  console.log("fire-v3.0.0");
+                  window.customElements.define('blz-app', BlazedApp);
+              }
 
         </script>
         <script src="{{ "js/init.js" | relURL }}"></script>
