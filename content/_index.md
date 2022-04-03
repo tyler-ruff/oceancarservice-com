@@ -18,9 +18,8 @@ sections:
 
       ---
 
-      There are many ways to book here with us. We check our email frequently,
-      so shoot any email to [booking@oceancarservice.com](mailto:booking@oceancarservice.com).
-      You can also call or text our main business line at: [(609) 214-9678](tel:1+6092149678).
+      Email: [booking@oceancarservice.com](mailto:booking@oceancarservice.com).
+      Phone: [(609) 214-9678](tel:1+6092149678).
 
       ---
 
