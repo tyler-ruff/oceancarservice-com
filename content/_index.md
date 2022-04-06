@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Lets get there.
     subtitle: |
-      ### Ocean City, New Jersey Car Service
+      ### Ocean Car Service
     image: 'https://blazed.sirv.com/RTM/logo/OCS_SQ.png'
     image_alt: Author avatar
   - title: Text
@@ -14,38 +14,29 @@ sections:
     content: >
       ---
 
-      ## Booking
-
-      ---
-
-      Email: [booking@oceancarservice.com](mailto:booking@oceancarservice.com).
-      
-      Phone: [(609) 214-9678](tel:1+6092149678).
-
-      ---
-
       ## Who are we?
 
 
-      We are a car service based in Ocean City, NJ.                
+      *  We are a car service based in Ocean City, NJ.
 
+      *  We operate year round, 24 hours-a-day.   
+               
+      *  We are fully licensed and insured.
 
-      We operate year round, 24 hours-a-day.                
-
-
-      We are fully licensed and insured.
-
-
-      ### What do we do?
-
-
-      We specialize in medium to large group and individuals, usually going to
-      events or to catch flights
-
-      We only do prearranged work, so please get in touch for a quote or to book
-      a trip!
       
-      ---
+      ### What do we do?
+ 
+
+      We service all of Ocean City and surrounding areas. We bring passengers to bars, weddings, sports events, concerts, airports, or really anywhere they need to get to. We only accept work in advance, so please be sure to book your trip through phone or email. 
+
+      ### Book with us!
+
+      To book a trip, you can call or text our main business line with a reservation request, you can also book through email. If available, your reservation will be confirmed with a quote, as well.
+      <br/>
+       *  [Phone Number](tel:+16092149678)
+      <br/>
+       *  [Email](mailto:booking@oceancarservice.com)
+
 seo:
   title: Home
   description: Ocean Car Service homepage

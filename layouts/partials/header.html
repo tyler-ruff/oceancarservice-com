@@ -1,6 +1,8 @@
 <!-- Header -->
 <header id="header" class="header container">
-    <a href="{{ "/" | relURL }}" class="logo">{{ .Site.Params.header.title }}</a>
+    <a href="{{ "/" | relURL }}" class="logo">
+        <img src="https://blazed.sirv.com/RTM/logo/OCS_SQ.png?h=75&w=75"/>
+    </a>
     {{ if and .Site.Params.header.nav_links .Site.Params.header.has_nav }}
     <nav>
         {{ range $item := $.Site.Params.header.nav_links }}

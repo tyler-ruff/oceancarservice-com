@@ -10,11 +10,11 @@ params:
         url: /
       - label: About
         url: /about/
-      - label: Contact
-        url: /contact/
+      - label: Booking
+        url: /booking/
   footer:
     content: >-
-      &copy; Ocean Car Service LLC. All rights reserved. Created by <a
+      &copy; Ocean Car Service, RTM Transportation LLC. All rights reserved. Website by <a
       href="https://www.blazedlabs.com/" target="_blank">Blazed Labs</a>.
     has_social: true
     social_links:
@@ -27,13 +27,8 @@ params:
       - label: RTM
         url: 'https://rtmtransit.com/'
         new_window: true
-      - label: Drunk Bus
-        url: 'https://drunkb.us/'
-        new_window: false
-        no_follow: false
-        type: action
     links: []
-  domain: 'https://oceancarservice-com.pages.dev'
+  domain: 'https://oceancarservice.com/'
 taxonomies:
   stub: stub
 disableKinds:
