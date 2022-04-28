@@ -22,32 +22,35 @@ sections:
 
       We service mostly the Ocean City, NJ area, but that includes a wide radius of most of the Atlantic County region, as well as the Ocean County region. However, we do specialize in airport and city trips, going to mostly New York and Philadelphia.
 
-      ### Prompt Arrivals
+      #### Prompt Arrivals
 
       We strive to make every deadline we commit to. We have been in this business a long time, and we do not make commitments we can't keep.
 
-      ### Local Drivers
+      #### Local Drivers
 
       All our drivers are local residents, a curated bunch of responsible individuals. We have made many friends in this industry over the years, and we would love to get to know you as well.
 
-      ### Accepted payment types
+      #### Accepted payment types
 
       We accept Cash, Card, Venmo, and Paypal.
 
-      ### Get in touch
-
-      Main Number: [(609) 214-9678](tel:+16092149678)
-
-
-      Email: [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
-
         ---
-
   - title: Recent Posts
     section_id: posts
     type: section_posts
     has_more_link: true
     more_link_text: View Fleet
+  - title: Text
+    section_id: contact
+    type: section_content
+    content: >
+      ---
+
+      ## Get in touch
+
+      * Main Number: [(609) 214-9678](tel:+16092149678)
+
+      * Email: [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
 
 
 seo:

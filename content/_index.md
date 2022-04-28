@@ -3,9 +3,9 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Lets get there.
+    title: Ocean Car Service
     subtitle: |
-      ### Ocean Car Service
+      ### Lets get there.
     image: 'https://blazed.sirv.com/RTM/logo/OCS_SQ.png'
     image_alt: Author avatar
   - title: Text
@@ -14,7 +14,16 @@ sections:
     content: >
       ---
 
-      ## Who are we?
+      ## Book with us!
+
+      To book a trip, you can call or text our main business line with a reservation request, you can also book through email. 
+  
+      <br/>
+       ### [(609) 214-9678](tel:+16092149678)
+      > [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
+
+
+      #### Who are we?
 
 
       *  We are a car service based in Ocean City, NJ.
@@ -23,19 +32,15 @@ sections:
                
       *  We are fully licensed and insured.
 
+      > [Bus Fleet](/fleet/bus) &nbsp; &nbsp; | &nbsp; &nbsp; [Car Fleet](/fleet/car)
       
-      ### What do we do?
+
+      #### What do we do?
  
 
-      We service all of Ocean City and surrounding areas. We bring passengers to bars, weddings, sports events, concerts, airports, or really anywhere they need to get to. We only accept work in advance, so please be sure to book your trip through phone or email. 
+      We service all of Ocean City and surrounding areas. We bring passengers to bars, weddings, sports events, concerts, airports, or really anywhere they need to get to. We only accept work in advance, so please be sure to book your trip through phone or email.
 
-      ### Book with us!
-
-      To book a trip, you can call or text our main business line with a reservation request, you can also book through email. If available, your reservation will be confirmed with a quote, as well.
-      <br/>
-       *  [Phone Number](tel:+16092149678)
-      <br/>
-       *  [Email](mailto:booking@oceancarservice.com)
+      > [Learn More](/about)
 
 seo:
   title: Home

@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-subtitle: Ocean Car Service - Contact
+subtitle: Ocean Car Service
 seo:
   title: Contact
   description: Ocean Car Service - Contact
