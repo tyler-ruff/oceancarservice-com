@@ -20,7 +20,7 @@ sections:
   
 
       ### [(609) 214-9678](tel:+16092149678)
-      
+
       > [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
 
 
@@ -33,8 +33,7 @@ sections:
                
       *  We are fully licensed and insured.
 
-      > [Bus Fleet](/fleet/bus) &nbsp; &nbsp; | &nbsp; &nbsp; [Car Fleet](/fleet/car)
-      
+
 
       #### What do we do?
  
