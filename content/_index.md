@@ -18,8 +18,9 @@ sections:
 
       To book a trip, you can call or text our main business line with a reservation request, you can also book through email. 
   
-      <br/>
-       ### [(609) 214-9678](tel:+16092149678)
+
+      ### [(609) 214-9678](tel:+16092149678)
+      
       > [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
 
 
