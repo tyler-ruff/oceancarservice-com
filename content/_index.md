@@ -14,11 +14,9 @@ sections:
     content: >
       ---
 
-      ### Call Us
-      #### [(609) 214-9678](tel:+16092149678)
+      ### Call Us: [(609) 214-9678](tel:+16092149678)
 
-      ### Email Us
-      #### [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
+      ### Email Us: [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
 
       ---
 
@@ -29,6 +27,7 @@ sections:
       *  We operate *year round, 24 hours-a-day*.
 
       *  We are *fully licensed and insured*.
+
 
       #### Where does OCS go?
 
