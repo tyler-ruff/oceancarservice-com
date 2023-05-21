@@ -13,25 +13,24 @@ sections:
     type: section_content
     content: >
       ---
-
-      ## About Us
-
-      We are a car service based out of Ocean City, New Jersey. 
-
-      ### Mission
+      ## Mission
 
       Our mission is to provide an excellent ride, be always on time, and never miss a deadline.
 
       #### Easy Booking and Prompt Arrivals
 
       We make it simple to book a trip, you can book through phone or email:
+      
 
       * [Email Us](mailto:booking@oceancarservice.com)
+  
       * [Call or Text Us](tel:16092149678).
 
       We strive to provide prompt service without delay. When you lock in your pickup time in advance, you can rest easy knowing OCS has your trip covered. You're in good hands with Ocean Car Service.
 
-      ### Company
+      ---
+
+      ## Company
 
       The *Ocean Car Service* is a division of [RTM Transportation LLC](https://rtmtransit.com/). 
       We have been serving the local community since 2017.

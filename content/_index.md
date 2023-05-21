@@ -15,17 +15,19 @@ sections:
       ---
 
       ### Call Us
-      > [(609) 214-9678](tel:+16092149678)
+      #### [(609) 214-9678](tel:+16092149678)
 
       ### Email Us
-      > [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
+      #### [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
 
       ---
 
       #### Who is OCS?
 
       *  We are a car service based in *Ocean City, NJ*.
+
       *  We operate *year round, 24 hours-a-day*.
+
       *  We are *fully licensed and insured*.
 
       #### Where does OCS go?
@@ -33,9 +35,13 @@ sections:
       We can transport you to/from all your favorite places, such as: 
 
       * Airports and Seaports
+
       * Bar crawls, Nightclubs, and Casinos
+  
       * Concerts, Sports Games, and Festivals
+
       * Restaurants, Amusement Parks, and Wineries
+  
 
       #### How can we serve you?
       
@@ -43,7 +49,9 @@ sections:
       Special accommodations can be made for large or fragile cargo (such as surfboards), large groups, and round-trips.
       From one person to two-hundred, we've got you covered.
 
-      > Need a ride? We'll get you there on time. [Book your trip](/booking).
+
+      Need a ride? We'll get you there on time. [Book your trip](/booking).
+
 
       * [Learn More](/about)
 
