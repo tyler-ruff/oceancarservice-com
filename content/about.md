@@ -3,9 +3,9 @@ title: About
 sections:
   - section_id: hero
     type: section_hero
-    title: Lets get there.
+    title: Ocean Car Service
     subtitle: |
-      ### Ocean City, New Jersey Car Service
+      ### About Us
     image: 'https://blazed.sirv.com/RTM/logo/OCS_SQ.png'
     image_alt: Author avatar
   - title: Text
@@ -14,27 +14,43 @@ sections:
     content: >
       ---
 
-      ## About Us
+      ## Mission
+      
 
       Our mission is to provide an excellent ride, be always on time, and never miss a deadline.
 
-      We strive to provide our customers with the utmost quality of car service.
+      #### Easy Booking and Prompt Arrivals
 
-      We service mostly the Ocean City, NJ area, but that includes a wide radius of most of the Atlantic County region, as well as the Ocean County region. However, we do specialize in airport and city trips, going to mostly New York and Philadelphia.
+      We make it simple to book a trip, you can book through phone or email:
+      
 
-      #### Prompt Arrivals
+      * [Email Us](mailto:booking@oceancarservice.com)
+  
+      * [Call or Text Us](tel:16092149678).
 
-      We strive to make every deadline we commit to. We have been in this business a long time, and we do not make commitments we can't keep.
 
-      #### Local Drivers
+      We strive to provide prompt service without delay. When you lock in your pickup time in advance, you can rest easy knowing OCS has your trip covered. You're in good hands with Ocean Car Service.
 
-      All our drivers are local residents, a curated bunch of responsible individuals. We have made many friends in this industry over the years, and we would love to get to know you as well.
 
-      #### Accepted payment types
+      ---
+      
+
+      ## Company
+
+      The *Ocean Car Service* is a division of [RTM Transportation LLC](https://rtmtransit.com/). 
+      We have been serving the local community since 2017.
+      We are a family-owned and operated business.
+
+      #### We Employ Local Drivers
+
+      All our drivers are local residents. We have made many friends in this industry over the years, and we would love to get to know you as well.
+
+      #### Accepted forms of Payment
 
       We accept Cash, Card, Venmo, and Paypal.
 
         ---
+
   - title: Recent Posts
     section_id: posts
     type: section_posts
@@ -44,27 +60,27 @@ sections:
     section_id: contact
     type: section_content
     content: >
+      
       ---
 
       ## Get in touch
 
-      * Main Number: [(609) 214-9678](tel:+16092149678)
-
+      * Phone: [(609) 214-9678](tel:+16092149678)
       * Email: [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
 
 
 seo:
-  title: Home
-  description: Ocean Car Service About Page
+  title: About | Ocean Car Service
+  description: 'We are a car service based out of Ocean City, New Jersey. We have been serving the local community since 2017.'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Ocean Car Service - Home
+      value: Ocean Car Service - About
       keyName: property
     - name: 'og:description'
-      value: Ocean Car Service About Page
+      value: 'We are a car service based out of Ocean City, New Jersey. We have been serving the local community since 2017.'
       keyName: property
     - name: 'og:image'
       value: 'https://blazed.sirv.com/RTM/logo/OCEAN.png'
@@ -73,9 +89,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Ocean Car Service - Home
+      value: Ocean Car Service - About
     - name: 'twitter:description'
-      value: Ocean Car Service About Page
+      value: 'We are a car service based out of Ocean City, New Jersey. We have been serving the local community since 2017.'
     - name: 'twitter:image'
       value: 'https://blazed.sirv.com/RTM/logo/OCEAN.png'
       relativeUrl: true
