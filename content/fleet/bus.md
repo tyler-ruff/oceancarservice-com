@@ -25,8 +25,11 @@ seo:
       value: The official bus fleet employed by Ocean Car Service.
 layout: post
 ---
-![](https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Van__White.jpg)
 
+<div class="Sirv">
+<div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Van__White.jpg"></div>
+<div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Van__Silver.jpg"></div>
+</div>
 
 
 
