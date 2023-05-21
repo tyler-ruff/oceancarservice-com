@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Ocean Car Service
     subtitle: |
-      ### Lets get there.
+      ### Home
     image: 'https://blazed.sirv.com/RTM/logo/OCS_SQ.png'
     image_alt: Author avatar
   - title: Text
@@ -14,37 +14,42 @@ sections:
     content: >
       ---
 
-      ## Book with us!
+      ### Call Us
+      > [(609) 214-9678](tel:+16092149678)
 
-      To book a trip, you can call or text our main business line with a reservation request, you can also book through email. 
-  
-
-      ### [(609) 214-9678](tel:+16092149678)
-
+      ### Email Us
       > [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
 
+      ---
 
-      #### Who are we?
+      #### Who is OCS?
 
+      *  We are a car service based in *Ocean City, NJ*.
+      *  We operate *year round, 24 hours-a-day*.
+      *  We are *fully licensed and insured*.
 
-      *  We are a car service based in Ocean City, NJ.
+      #### Where does OCS go?
 
-      *  We operate year round, 24 hours-a-day.   
-               
-      *  We are fully licensed and insured.
+      We can transport you to/from all your favorite places, such as: 
 
+      * Airports and Seaports
+      * Bar crawls, Nightclubs, and Casinos
+      * Concerts, Sports Games, and Festivals
+      * Restaurants, Amusement Parks, and Wineries
 
+      #### How can we serve you?
+      
+      We can help if you are organizing a corporate outing, a night on the town with friends, or even a cruise/flight.
+      Special accommodations can be made for large or fragile cargo (such as surfboards), large groups, and round-trips.
+      From one person to two-hundred, we've got you covered.
 
-      #### What do we do?
- 
+      > Need a ride? We'll get you there on time. [Book your trip](/booking).
 
-      We service all of Ocean City and surrounding areas. We bring passengers to bars, weddings, sports events, concerts, airports, or really anywhere they need to get to. We only accept work in advance, so please be sure to book your trip through phone or email.
-
-      > [Learn More](/about)
+      * [Learn More](/about)
 
 seo:
-  title: Home
-  description: Ocean Car Service homepage
+  title: Home | Ocean Car Service
+  description: 'We service all of Ocean City and surrounding areas. We bring passengers to bars, weddings, sports events, concerts, airports, or really anywhere they need to get to.'
   extra:
     - name: 'og:type'
       value: website
@@ -53,7 +58,7 @@ seo:
       value: Ocean Car Service - Home
       keyName: property
     - name: 'og:description'
-      value: Ocean Car Service homepage
+      value: 'We service all of Ocean City and surrounding areas. We bring passengers to bars, weddings, sports events, concerts, airports, or really anywhere they need to get to.'
       keyName: property
     - name: 'og:image'
       value: 'https://blazed.sirv.com/RTM/logo/OCEAN.png'
@@ -64,7 +69,7 @@ seo:
     - name: 'twitter:title'
       value: Ocean Car Service - Home
     - name: 'twitter:description'
-      value: Ocean Car Service homepage
+      value: 'We service all of Ocean City and surrounding areas. We bring passengers to bars, weddings, sports events, concerts, airports, or really anywhere they need to get to.'
     - name: 'twitter:image'
       value: 'https://blazed.sirv.com/RTM/logo/OCEAN.png'
       relativeUrl: true
