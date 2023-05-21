@@ -13,7 +13,9 @@ sections:
     type: section_content
     content: >
       ---
+
       ## Mission
+      
 
       Our mission is to provide an excellent ride, be always on time, and never miss a deadline.
 
@@ -26,9 +28,12 @@ sections:
   
       * [Call or Text Us](tel:16092149678).
 
+
       We strive to provide prompt service without delay. When you lock in your pickup time in advance, you can rest easy knowing OCS has your trip covered. You're in good hands with Ocean Car Service.
 
+
       ---
+      
 
       ## Company
 
