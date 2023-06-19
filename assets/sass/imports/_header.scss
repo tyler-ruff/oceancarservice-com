@@ -33,6 +33,10 @@
         }
     }
 
+    .nav-menu{
+        display:inline-flex;
+    }
+
     .nav-menu:not(.visible) {
         @media screen and (max-width: $tablet) {
             display: none;
