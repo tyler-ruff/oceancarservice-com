@@ -50,7 +50,7 @@
 
     .nav-burger{
         cursor: pointer;
-        display:none;
+        display:none!important;
         @media screen and (max-width: $tablet) {
             display:block;
         }
