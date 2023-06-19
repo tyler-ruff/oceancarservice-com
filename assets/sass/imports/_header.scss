@@ -35,7 +35,7 @@
 
     .nav-menu:not(.visible) {
         @media screen and (max-width: $tablet) {
-            display: hidden;
+            display: none;
         }
     }
 
