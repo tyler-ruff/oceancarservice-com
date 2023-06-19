@@ -29,6 +29,37 @@
             width: 100%;
             justify-content: space-between;
             flex-wrap: wrap;
+            display: block;
+        }
+    }
+
+    .nav-menu{
+        display:inline-flex;
+        @media screen and (max-width: $tablet) {
+            display:block;
+        }
+    }
+
+    .nav-menu:not(.visible) {
+        @media screen and (max-width: $tablet) {
+            display: none;
+        }
+    }
+
+    .icon{
+        width:26px;
+        height:26px;
+    }
+
+    .hidden{
+        display:none;
+    }
+
+    .nav-burger{
+        cursor: pointer;
+        display:none;
+        @media screen and (max-width: $tablet) {
+            display:block;
         }
     }
 
