@@ -35,6 +35,9 @@
 
     .nav-menu{
         display:inline-flex;
+        @media screen and (max-width: $tablet) {
+            display:block;
+        }
     }
 
     .nav-menu:not(.visible) {
