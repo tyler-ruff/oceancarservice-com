@@ -45,12 +45,15 @@ sections:
 
 
       Need a ride? We'll get you there on time. [Book your trip](/booking).
+
       
       * Call Us: [(609) 214-9678](tel:+16092149678)
       
       * Email Us: [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
 
       * [Learn More](/about)
+
+
 
 seo:
   title: Home | Ocean Car Service
