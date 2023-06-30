@@ -1,6 +1,6 @@
 ---
-title: Booking
-subtitle: Ocean Car Service
+title: Ocean Car Service
+subtitle: Booking
 seo:
   title: Booking | Ocean Car Service
   description: 'Need a ride? We will get you there on time. Book a trip with us.'

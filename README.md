@@ -4,8 +4,6 @@ Ocean Car Service is a small car service based in Ocean City, NJ.
 
 ## Demo
 
-Dev site: https://dev.oceancarservice.com
-
 Live Site: https://www.oceancarservice.com
 
 ![Screenshot](screenshot.jpg?raw=true "Ocean Car Service")

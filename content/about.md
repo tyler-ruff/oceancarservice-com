@@ -19,6 +19,8 @@ sections:
 
       Our mission is to provide an excellent ride, be always on time, and never miss a deadline.
 
+
+
       #### Easy Booking and Prompt Arrivals
 
       We make it simple to book a trip, you can book through phone or email:
@@ -30,6 +32,7 @@ sections:
 
 
       We strive to provide prompt service without delay. When you lock in your pickup time in advance, you can rest easy knowing OCS has your trip covered. You're in good hands with Ocean Car Service.
+
 
 
       ---
@@ -66,6 +69,7 @@ sections:
       ## Get in touch
 
       * Phone: [(609) 214-9678](tel:+16092149678)
+
       * Email: [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
 
 

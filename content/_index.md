@@ -14,12 +14,6 @@ sections:
     content: >
       ---
 
-      ### Call Us: [(609) 214-9678](tel:+16092149678)
-
-      ### Email Us: [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
-
-      ---
-
       #### Who is OCS?
 
       *  We are a car service based in *Ocean City, NJ*.
@@ -32,6 +26,7 @@ sections:
       #### Where does OCS go?
 
       We can transport you to/from all your favorite places, such as: 
+
 
       * Airports and Seaports
 
@@ -50,7 +45,10 @@ sections:
 
 
       Need a ride? We'll get you there on time. [Book your trip](/booking).
-
+      
+      * Call Us: [(609) 214-9678](tel:+16092149678)
+      
+      * Email Us: [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
 
       * [Learn More](/about)
 
