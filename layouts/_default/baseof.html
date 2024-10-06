@@ -38,7 +38,7 @@
         
     </head>
     <body>
-        <blz-app>
+        <section id="app">
           <div class="wrapper">
               {{ partial "header.html" . }}
               <div class="container">
@@ -46,27 +46,7 @@
               </div>
               {{ partial "footer.html" . }}
           </div>
-        </blz-app>
-        <script type="module">
-
-                // In development, a local server must be used:
-                // This option is especially useful when making 
-                // changes to the codebase.
-
-              //import { BlazedApp } from 'http://localhost:8080/assets/js/modules/blz.js';
-
-                // In production/staging, a trusted CDN may be used:
-                // This option is especially useful when working 
-                // with a stable or immutable build.
-
-              import { BlazedApp } from 'https://blazed.sbs/assets/js/blz.js';
-
-              if((typeof BlazedApp) === 'function'){
-                  console.log("fire-v3.0.0");
-                  window.customElements.define('blz-app', BlazedApp);
-              }
-
-        </script>
+        </section>
         <script src="{{ "js/init.js" | relURL }}"></script>
         <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
     </body> 
