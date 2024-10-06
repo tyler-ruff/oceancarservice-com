@@ -9,13 +9,13 @@ body::-webkit-scrollbar-track{background:#727a8a}
 body::-webkit-scrollbar-thumb{background-color:#afb4bd;border-radius:20px;border:1px solid #5b626e}
 body::-webkit-scrollbar-thumb:hover{background-color:#5b626e}
 
-blz-app, header, 
+.app, header, 
 main, footer, section,
 article, p, div {
     display:block;
 }
 
-blz-app{
+.app{
     position:relative;
     max-width: 960px;
     margin-left: auto;
