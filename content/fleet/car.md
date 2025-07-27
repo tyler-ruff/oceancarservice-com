@@ -4,7 +4,7 @@ excerpt: >-
   This is the fleet of passenger cars which OCS directly owns. We always
   properly maintain them, clean, and disinfect them frequently.
 date: '2016-08-28'
-thumb_img_alt: Geometric pattern
+thumb_img_alt: View our car fleet
 seo:
   title: Car Fleet
   description: The official car fleet employed by Ocean Car Service.
@@ -32,3 +32,7 @@ layout: post
 <div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Black.jpg"></div>
 <div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Silver2.jpg"></div>
 </div>
+
+---
+
+[Explore Bus Fleet](/fleet/bus)

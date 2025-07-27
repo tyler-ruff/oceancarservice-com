@@ -1,6 +1,19 @@
 <!doctype html>
 <html lang="en">
-    <head>    
+    <head>
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/", 
+          "@type": "Product", 
+          "name": "Ocean Car Service",
+          "image": "https://blazed.sirv.com/RTM/oceancarservice.com/OCS-Cover.png",
+          "description": "Ocean Car Service is based out of Ocean City, New Jersey. We have been serving the local community since 2017. We strive to provide prompt service without delay. When you book your trip in advance, you can rest easy knowing OCS has your trip covered. You're in good hands with Ocean Car Service.",
+          "brand": {
+            "@type": "Brand",
+            "name": "RTM Transportation LLC"
+          }
+        }
+        </script>
         <title>Ocean Car Service | {{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Title }}{{ end }}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />

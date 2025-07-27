@@ -3,7 +3,7 @@ title: Bus Fleet
 subtitle: Each bus fits up to 15 passengers.
 excerpt: "This is the fleet of passenger vans which OCS directly owns. We always properly maintain them, clean, and disinfect them frequently."
 date: '2016-09-04'
-thumb_img_alt: Geometric pattern
+thumb_img_alt: View our bus fleet
 seo:
   title: Bus Fleet
   description: The official bus fleet employed by Ocean Car Service.
@@ -31,5 +31,8 @@ layout: post
 <div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Van__White.jpg"></div>
 </div>
 
+---
+
+[Explore Car Fleet](/fleet/car)
 
 

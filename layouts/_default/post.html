@@ -10,7 +10,6 @@
             {{ if .Params.subtitle }}
             <h3>{{ $.Params.subtitle | safeHTML }}</h3>
             {{ end }}
-            <h3 class="publish-date">{{ .Date | dateFormat "Monday, January 2, 2006" }}</h3>
         </div>
     </header>
     <div class="content">
