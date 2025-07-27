@@ -37,5 +37,5 @@ layout: post
 ---
 
 <div class="center">
-<a href="https://oceancarservice.com/fleet/bus">Explore Bus Fleet</a>
+<a href="/fleet/bus">Explore Bus Fleet</a>
 </div>
