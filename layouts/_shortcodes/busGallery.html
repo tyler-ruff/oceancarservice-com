@@ -1,0 +1,18 @@
+<script src="https://scripts.sirv.com/sirvjs/v3/sirv.js"></script>
+
+<div class="Sirv" data-options="slide.animation.type:slide; slide.animation.duration:600">
+    {{ $vehicles := index $.Site.Data.bus }}
+    {{ range $vehicles }}
+        <div 
+            data-src="{{ .image }}"
+            title="{{ .year }} {{ .make }} {{ .model }}"
+        ></div>
+    {{ end }}
+</div>
+<!--
+    <div class="Sirv">
+    <div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Van__Silver.jpg"></div>
+    <div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Van__White.jpg"></div>
+    <div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Van__White2.jpg"></div>
+    </div>
+-->

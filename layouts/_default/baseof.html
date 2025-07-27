@@ -14,7 +14,7 @@
           }
         }
         </script>
-        <title>Ocean Car Service | {{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Title }}{{ end }}</title>
+        <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Title }}{{ end }}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <meta name="google" content="notranslate" />
@@ -25,6 +25,7 @@
         <link rel="preconnect" href="https://my.sirv.com">
         <link rel="dns-prefetch" href="//my.sirv.com/">
         <link rel="me" href="mailto:booking@oceancarservice.com">
+        <link rel="author" href="https://blazedlabs.com/humans">
         <!-- END BLZ-HEADKIT -->
         {{ if .Params.seo.robots }}
         <meta name="robots" content="{{ delimit $.Params.seo.robots "," }}">
@@ -42,13 +43,12 @@
             <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $meta.value }}">
           {{ end }}
         {{ end }}
-        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
+        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | css.Sass (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
         {{ if .Site.Params.favicon }}
         <link rel="icon" href="{{ $.Site.Params.favicon | relURL }}">
+
         {{ end }}
 
-        <script src="https://scripts.sirv.com/sirvjs/v3/sirv.js"></script>
-        
     </head>
     <body>
         <section id="app" class="app">

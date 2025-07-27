@@ -1,5 +1,14 @@
 title: Ocean Car Service
 baseURL: /
+mediaTypes:
+  application/json:
+    delimiter: .
+    suffixes:
+    - json
+  application/manifest+json:
+    delimiter: .
+    suffixes:
+    - webmanifest
 params:
   favicon: 'https://blazed.sirv.com/RTM/logo/ocs.png'
   header:

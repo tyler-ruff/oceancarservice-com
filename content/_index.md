@@ -12,7 +12,9 @@ sections:
     section_id: intro
     type: section_content
     content: >
-      ---
+    
+      {{< homePhoto >}}
+
 
       #### Who is OCS?
 
@@ -44,7 +46,7 @@ sections:
       From one person to two-hundred, we've got you covered.
 
 
-      Need a ride? We'll get you there on time. [Book your trip](/booking).
+      **Need a ride? We'll get you there on time. [Book your trip](/booking).**
 
       
       * Call Us: [(609) 214-9678](tel:+16092149678)
@@ -69,9 +71,11 @@ seo:
       value: 'We service all of Ocean City and surrounding areas. We bring passengers to bars, weddings, sports events, concerts, airports, or really anywhere they need to get to.'
       keyName: property
     - name: 'og:image'
-      value: 'https://blazed.sirv.com/RTM/logo/OCEAN.png'
+      value: 'https://blazed.sirv.com/RTM/oceancarservice.com/OCS-Cover.png'
       keyName: property
       relativeUrl: true
+    - name: 'twitter:site'
+      value: '@RTMtransit'
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
@@ -79,7 +83,7 @@ seo:
     - name: 'twitter:description'
       value: 'We service all of Ocean City and surrounding areas. We bring passengers to bars, weddings, sports events, concerts, airports, or really anywhere they need to get to.'
     - name: 'twitter:image'
-      value: 'https://blazed.sirv.com/RTM/logo/OCEAN.png'
+      value: 'https://blazed.sirv.com/RTM/oceancarservice.com/OCS-Cover.png'
       relativeUrl: true
 layout: advanced
 ---

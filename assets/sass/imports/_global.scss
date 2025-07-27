@@ -3,6 +3,17 @@ html {
     box-sizing: border-box;
 }
 
+.select-none{
+    user-select: none;
+    -webkit-user-select: none; /* For older WebKit browsers */
+    -moz-user-select: none;    /* For older Firefox browsers */
+    -ms-user-select: none;     /* For older Internet Explorer/Edge */
+}
+
+.hidden{
+    display:none;
+}
+
 /* Blazed Labs Custom Scrollbar */
 body::-webkit-scrollbar{width:10px}
 body::-webkit-scrollbar-track{background:#727a8a}

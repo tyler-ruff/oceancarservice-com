@@ -1,0 +1,30 @@
+[
+    {
+        "image": "https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Silver.jpg",
+        "year": "2006",
+        "make": "Lincoln",
+        "model": "Town Car",
+        "color": "Gold"
+    },
+    {
+        "image": "https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__White.jpg",
+        "year": "2008",
+        "make": "Hyundai",
+        "model": "Entourage",
+        "color": "White"
+    },
+    {
+        "image": "https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Silver2.jpg",
+        "year": "2010",
+        "make": "Chevy",
+        "model": "Malibu",
+        "color": "Silver"
+    },
+    {
+        "image": "https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Black.jpg",
+        "year": "2020",
+        "make": "Chevy",
+        "model": "Malibu",
+        "color": "Black"
+    }
+]

@@ -7,7 +7,7 @@ excerpt: >-
 date: '2016-08-28'
 thumb_img_alt: View our car fleet
 seo:
-  title: Car Fleet
+  title: Car Fleet | Ocean Car Service
   description: The official car fleet employed by Ocean Car Service.
   extra:
     - name: 'og:type'
@@ -21,6 +21,8 @@ seo:
       keyName: property
     - name: 'twitter:card'
       value: summary
+    - name: 'twitter:site'
+      value: '@RTMtransit'
     - name: 'twitter:title'
       value: Car Fleet
     - name: 'twitter:description'
@@ -28,14 +30,10 @@ seo:
 layout: post
 ---
 
-<div class="Sirv">
-<div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Silver.jpg"></div>
-<div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Black.jpg"></div>
-<div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Silver2.jpg"></div>
-</div>
+{{< carGallery >}}
 
 ---
 
 <div class="center">
-<a href="/fleet/bus">Explore Bus Fleet</a>
+  <a href="/fleet/bus">Explore Bus Fleet</a>
 </div>

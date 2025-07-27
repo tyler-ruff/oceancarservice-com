@@ -14,6 +14,25 @@ sections:
     content: >
       ---
 
+      ## Company
+
+      The *Ocean Car Service* is a division of [RTM Transportation LLC](https://rtmtransit.com/). 
+      We have been serving the local community since 2017.
+      We are a family-owned and operated business.
+
+
+      #### We Employ Local Drivers
+
+      All our drivers are local residents. We have made many friends in this industry over the years, and we would love to get to know you as well.
+
+      #### Accepted forms of Payment
+
+      We accept Cash, Card, <a href="https://venmo.com/u/OceanCarService" target="_blank">Venmo</a>, Apple Pay, and Paypal.
+
+
+      ---
+
+
       ## Mission
       
 
@@ -34,25 +53,17 @@ sections:
       We strive to provide prompt service without delay. When you book your trip in advance, you can rest easy knowing OCS has your trip covered. You're in good hands with Ocean Car Service.
 
 
+      <br />
+
 
       ---
-      
 
-      ## Company
 
-      The *Ocean Car Service* is a division of [RTM Transportation LLC](https://rtmtransit.com/). 
-      We have been serving the local community since 2017.
-      We are a family-owned and operated business.
+      {{< ocsLogoFull >}}
 
-      #### We Employ Local Drivers
 
-      All our drivers are local residents. We have made many friends in this industry over the years, and we would love to get to know you as well.
+      ---
 
-      #### Accepted forms of Payment
-
-      We accept Cash, Card, Venmo, and Paypal.
-
-        ---
 
   - title: Recent Posts
     section_id: posts
@@ -66,11 +77,17 @@ sections:
       
       ---
 
+
+      {{< ocsPromo >}}
+      
+
       ## Get in touch
 
       * Phone: [(609) 214-9678](tel:+16092149678)
 
       * Email: [booking@oceancarservice.com](mailto:booking@oceancarservice.com)
+
+      * [Book a trip](/booking)
 
 
 seo:
@@ -87,17 +104,19 @@ seo:
       value: 'We are a car service based out of Ocean City, New Jersey. We have been serving the local community since 2017.'
       keyName: property
     - name: 'og:image'
-      value: 'https://blazed.sirv.com/RTM/logo/OCEAN.png'
+      value: 'https://blazed.sirv.com/RTM/oceancarservice.com/OCS-Cover.png'
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
+    - name: 'twitter:site'
+      value: '@RTMtransit'
     - name: 'twitter:title'
       value: Ocean Car Service - About
     - name: 'twitter:description'
       value: 'We are a car service based out of Ocean City, New Jersey. We have been serving the local community since 2017.'
     - name: 'twitter:image'
-      value: 'https://blazed.sirv.com/RTM/logo/OCEAN.png'
+      value: 'https://blazed.sirv.com/RTM/oceancarservice.com/OCS-Cover.png'
       relativeUrl: true
 layout: advanced
 ---

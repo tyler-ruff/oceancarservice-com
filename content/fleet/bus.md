@@ -5,7 +5,7 @@ excerpt: "This is the fleet of passenger vans which OCS directly owns. We always
 date: '2016-09-04'
 thumb_img_alt: View our bus fleet
 seo:
-  title: Bus Fleet
+  title: Bus Fleet | Ocean Car Service
   description: The official bus fleet employed by Ocean Car Service.
   extra:
     - name: 'og:type'
@@ -19,6 +19,8 @@ seo:
       keyName: property
     - name: 'twitter:card'
       value: summary
+    - name: 'twitter:site'
+      value: '@RTMtransit'
     - name: 'twitter:title'
       value: Bus Fleet
     - name: 'twitter:description'
@@ -26,13 +28,10 @@ seo:
 layout: post
 ---
 
-<div class="Sirv">
-<div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Van__Silver.jpg"></div>
-<div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Van__White.jpg"></div>
-</div>
+{{< busGallery >}}
 
 ---
 <div class="center">
-<a href="/fleet/car">Explore Car Fleet</a>
+  <a href="/fleet/car">Explore Car Fleet</a>
 </div>
 

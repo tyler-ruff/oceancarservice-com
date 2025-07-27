@@ -17,7 +17,7 @@ button,
         border: none;
     }
 
-    &:not(.logo):not(.nav-link) {
+    &:not(.logo):not(.nav-link):not(.link-reset) {
         font-weight: inherit;
         position: relative;
 

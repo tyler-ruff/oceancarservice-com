@@ -1,12 +1,12 @@
 <!-- Header -->
 <header id="header" class="header container">
-    <a href="{{ "/" | relURL }}" class="logo">
+    <a title="Ocean Car Service" href="{{ "/" | relURL }}" class="logo select-none">
         <img src="https://blazed.sirv.com/RTM/logo/OCS_SQ.png?h=75&w=75"/>
     </a>
     {{ if and .Site.Params.header.nav_links .Site.Params.header.has_nav }}
     <nav>
         <!-- Burger -->
-        <div class="nav-burger">
+        <div class="nav-burger select-none">
             <a class="nav-link">
                 <i onmouseup="openMenu();" id="burger-menu">
                     <svg class="icon" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512">
@@ -20,9 +20,9 @@
                 </i>
             </a>
         </div>
-        <div id="nav-menu" class="nav-menu">
+        <div id="nav-menu" class="nav-menu select-none">
             {{ range $item := $.Site.Params.header.nav_links }}
-                {{ $pageUrl := trim $.URL "/" }}
+                {{ $pageUrl := trim $.RelPermalink "/" }}
                 {{ $itemUrl := trim $item.url "/" }}
                 <a href="{{ if strings.HasPrefix $item.url "#" }}{{ $item.url }}{{ else }}{{ $item.url | relURL }}{{ end }}"
                     {{ if $item.new_window }} target="_blank"{{ end }}
