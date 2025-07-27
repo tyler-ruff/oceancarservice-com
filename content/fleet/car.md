@@ -35,4 +35,6 @@ layout: post
 
 ---
 
+<div class="center">
 [Explore Bus Fleet](/fleet/bus)
+</div>

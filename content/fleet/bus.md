@@ -32,7 +32,7 @@ layout: post
 </div>
 
 ---
-
+<div class="center">
 [Explore Car Fleet](/fleet/car)
-
+</div>
 
