@@ -30,4 +30,5 @@ layout: post
 <div class="Sirv">
 <div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Silver.jpg"></div>
 <div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Black.jpg"></div>
+<div data-src="https://blazed.sirv.com/RTM/oceancarservice.com/fleet/Car__Silver2.jpg"></div>
 </div>
