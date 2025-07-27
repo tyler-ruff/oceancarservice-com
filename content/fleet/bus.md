@@ -33,6 +33,6 @@ layout: post
 
 ---
 <div class="center">
-[Explore Car Fleet](/fleet/car)
+<a href="https://oceancarservice.com/fleet/car">Explore Car Fleet</a>
 </div>
 

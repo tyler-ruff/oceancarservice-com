@@ -1,5 +1,6 @@
 ---
 title: Car Fleet
+subtitle: Ride in comfort and luxury with our cars.
 excerpt: >-
   This is the fleet of passenger cars which OCS directly owns. We always
   properly maintain them, clean, and disinfect them frequently.
@@ -36,5 +37,5 @@ layout: post
 ---
 
 <div class="center">
-[Explore Bus Fleet](/fleet/bus)
+<a href="https://oceancarservice.com/fleet/bus">Explore Bus Fleet</a>
 </div>
