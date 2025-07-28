@@ -27,7 +27,7 @@ sections:
 
       #### Accepted forms of Payment
 
-      We accept Cash, Card, <a href="https://venmo.com/u/OceanCarService" target="_blank">Venmo</a>, Apple Pay, and Paypal.
+      We accept Cash, Card, [Venmo](/billing/venmo), Apple Pay, and [PayPal](/billing/paypal). [Learn more](/billing/about)
 
 
       ---
