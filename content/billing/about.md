@@ -70,7 +70,7 @@ sections:
 
       ---
 
-      For questions about billing, payment methods, or to request a receipt, please contact our billing team at [billing@oceancarservice.com](mailto:billing@oceancarservice.com) or you can call our support hotline [+1 (855) 788-2348].
+      For questions about billing, payment methods, or to request a receipt, please contact our billing team at [billing@oceancarservice.com](mailto:billing@oceancarservice.com) or you can call our support hotline [+1 (855) 788-2348](tel:+18557882348).
 
 layout: advanced
 ---
